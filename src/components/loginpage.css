@@ -1,0 +1,32 @@
+.logcontainer{
+    background-color: rgb(208, 230, 250);
+    width: 400px;
+    padding: 50px;
+}
+
+.innercont{
+    display: flex;
+    flex-direction: row;
+    margin:auto;
+    /* background-color: red; */
+    justify-content:center;
+    align-items:center;
+}
+
+.container{
+    margin-top: 100px;
+    /* background-color: slateblue; */
+
+}
+
+.img{
+    height: 500px;
+}
+
+.error_test{
+    font-size: smaller;
+    color: red;
+}
+
+
+/* *********************editprofile****************************** */
